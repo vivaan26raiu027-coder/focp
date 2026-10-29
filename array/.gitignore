@@ -1,0 +1,7 @@
+# Binaries and compiled files
+*.exe
+*.o
+*.out
+*.obj
+a.out
+.DS_Store
